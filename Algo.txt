@@ -2,3 +2,6 @@ Decide where to buy pizza
 get pep
 pay for pizza
 eat pizza
+  4a.throw away box
+  4b.wash hands
+  see step 1
