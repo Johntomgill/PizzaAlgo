@@ -5,3 +5,6 @@ eat pizza
   4a.throw away box
   4b.wash hands
   see step 1
+  Get sick from eating too much pizza
+  get better 
+  eat more pizza
